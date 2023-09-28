@@ -52,7 +52,10 @@ app.bat
 ```
 
 - #### You can Drag and Drop files onto Drag and Drop icon
-- #### If you want to remove a file from 
+- #### If you want to remove a file from file list click remove button
+- #### If you want to open file location click location button.
+- #### If you want to just shred the files click on Shred button.
+- #### If you want to shred and delete the files click on Shred and Delete button.
 
 ### If you're interested in custom application development or would like to discuss a project, please don't hesitate to contact me.
 
