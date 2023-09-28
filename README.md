@@ -1,6 +1,8 @@
 # <h1 align="center">File Shredder</h1> 
 <h2 align="center">File shredder made using JavaFX</h2>
 
+<img align="center" alt="Alt Text" src="/screenshots/img.png"/>
+
 ## Menu
 
 - [What is Shredding](#explain)
@@ -28,7 +30,29 @@
 
 ### How to use the File Shredder <a name="use"></a>
 
-- 
+- #### Download app from [here](https://github.com/heshanthenura/FileShredder/releases/tag/v0.0.1) or clone the project
+
+if you download the app extract it using unzipping softwear.
+
+- #### Open CMD or Terminal inside the app folder
+
+- for windows in CMD run these commands
+```
+cd bin
+```
+```
+app.bat
+```
+- for linux in Terminal run these commands
+```
+cd bin
+```
+```
+app.bat
+```
+
+- #### You can Drag and Drop files onto Drag and Drop icon
+- #### If you want to remove a file from 
 
 ### If you're interested in custom application development or would like to discuss a project, please don't hesitate to contact me.
 
