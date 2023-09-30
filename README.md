@@ -48,7 +48,7 @@ app.bat
 cd bin
 ```
 ```
-app.bat
+app
 ```
 
 - #### You can Drag and Drop files onto Drag and Drop icon
